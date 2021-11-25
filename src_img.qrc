@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>imgs/envelope.png</file>
+    <file>imgs/password.png</file>
+    <file>imgs/website.png</file>
+  </qresource>
+</RCC>
